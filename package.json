@@ -1,11 +1,11 @@
 {
-  "name": "react-count-down-timer",
+  "name": "react-custom-count-down-timer",
   "version": "1.0.0",
   "description": "A react component that can be used as a count-down/launch timer",
   "main": "./build/index.js",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Tsudhishnair/react-count-down-timer"
   },
   "scripts": {
     "build": "webpack --config webpack.config.js"
