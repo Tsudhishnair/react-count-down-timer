@@ -1,0 +1,31 @@
+{
+  "name": "react-count-down-timer",
+  "version": "1.0.0",
+  "description": "A react component that can be used as a count-down/launch timer",
+  "main": "./build/index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "author": "T Sudhish Nair",
+  "license": "MIT",
+  "dependencies": {
+    "styled-components": "^5.3.0"
+  },
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.13.16",
+    "babel-loader": "^8.2.2",
+    "@babel/core": "^7.14.0",
+    "@babel/preset-env": "^7.14.1",
+    "@babel/preset-react": "^7.13.13",
+    "webpack": "^5.36.2",
+    "webpack-cli": "^4.7.0"
+  }
+}
