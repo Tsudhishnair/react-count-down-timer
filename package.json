@@ -7,6 +7,7 @@
     "type": "git",
     "url": "https://github.com/Tsudhishnair/react-count-down-timer"
   },
+  "keywords": ["react", "timer", "launch-timer", "count-down-timer","custom-styled-timer", "styled-components"],
   "scripts": {
     "build": "webpack --config webpack.config.js"
   },
