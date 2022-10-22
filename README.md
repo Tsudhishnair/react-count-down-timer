@@ -60,5 +60,7 @@ return (
 ```
 You can customize the counter by wrrapping in your own custom component and even can pass your custom components to `ReactCountDownTimer` as `{props.children}`.
 
+## License
 
+[MIT License](LICENSE)
 
